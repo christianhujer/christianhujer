@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **christianhujer/christianhujer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +9,25 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<img align="right" style="float: right;" alt="Christian's desk" src="https://github.com/christianhujer/christianhujer/blob/trunk/Desktop.jpg?raw=true" width="280" height="210"/>
+
+### Hi there 👋
+
+Hi, I'm 🧙🏻‍♂️Christian Hujer, a passionate software crafter from 🇩🇪Germany living in 🇮🇳India.
+Together with [Siddhesh Nikude](https://github.com/sidnik007), I'm the founder and CEO of [Nelkinda Software Craft](https://github.com/nelkinda).
+At Nelkinda, we raise the bar of professional software development by doing it and showing others how to do it.
+
+- 🔭 I’m currently working on supporting large multi-national organizations to become more agile in their software development and business processes.
+- 🌱 I’m currently learning how to scale a business.
+- 👯 I’m looking to collaborate on making ensemble programming (fka mob programming) more popular.
+- 🤔 I’m looking for help with many things, see [Career at Nelkinda](https://nelkinda.com/career/).
+- 💬 Ask me about anything.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christianhujer/), [Twitter](https://twitter.com/christianhujer)
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
