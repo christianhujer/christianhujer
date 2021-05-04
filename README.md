@@ -6,7 +6,8 @@ Hi, I'm 🧙🏻‍♂️Christian Hujer, a passionate software crafter from �
 Together with [Siddhesh Nikude](https://github.com/sidnik007), I'm the founder and CEO of [Nelkinda Software Craft](https://github.com/nelkinda).
 At Nelkinda, we raise the bar of professional software development by doing it and showing others how to do it.
 
-- 🔭 I’m currently working on supporting large multi-national organizations to become more agile in their software development and business processes.
+- 🦮 I'm helping teams and organizations (ranging from small 1-person startups to large international banks) to become more agile in their software development and business process.
+- 🦮 I'm helping teams to migrate from Java to Kotlin.
 - 🌱 I’m currently learning how to scale a business.
 - 👯 I’m looking to collaborate on making ensemble programming (fka mob programming) more popular.
 - 🤔 I’m looking for help with many things, see [Career at Nelkinda](https://nelkinda.com/career/).
