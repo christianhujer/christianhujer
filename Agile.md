@@ -26,9 +26,9 @@
 > 
 > Given two or more otherwise roughly equivalent alternatives, prefer the option that makes future change easier.
 
-― "Pragmatic" Dave Thomas, https://pragdave.me/blog/2014/03/04/time-to-kill-agile.htmll
+― "Pragmatic" Dave Thomas, https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html
 
-See also: Shewhart Cycle, Deming Cycle, PDCA Cycle, PID Controller
+See also: Deming Cycle, PDCA Cycle, PID Controller, Scientific Method, Shewhart Cycle
 
 ## The Two Values of Software
 > The **Secondary Value of Software** is its *behavior*:  
