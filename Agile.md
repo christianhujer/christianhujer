@@ -44,6 +44,18 @@ See also: Deming Cycle, PDCA Cycle, PID Controller, Scientific Method, Shewhart 
 
 Credit: Robert C. Martin, "The Single Responsibility Principle" Video on cleancoders.com
 
+## Interface
+> **interface noun**
+> 
+> in·​ter·​face | \ ˈin-tər-ˌfās  \
+> 
+> Definition of *interface*
+> 
+> 1: An element of structure that exposes behavior.
+> Through the USB interface, you can connect a peripheral device.  
+> Through the user interface, you can operate the software.  
+> Through this interface, you can extend this framework.
+
 ## The 4 Rules of Simple Design
 Purpose: Make change easier/Keep change easy
 > 1. Passes the Tests
