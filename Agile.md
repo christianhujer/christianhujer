@@ -226,3 +226,24 @@ Credit: Kent Beck, Ward Cunningham, Ron Jeffries, Don Wells, Cynthia Andres
 > 
 > 1: Belonging together because of changing together.  
 > The x and y attributes of a point change together so they belong together in the same data structure.
+
+## 8 Wastes of Lean
+### TIMWOODS
+> - Transportation
+> - Inventory
+> - Motion
+> - Waiting
+> - Overprocessing
+> - Overproduction
+> - Defects
+> - Skills
+
+### DOWNTIME
+> - Defects
+> - Overproduction
+> - Waiting
+> - Non-utilized talent
+> - Transportation
+> - Inventory
+> - Motion
+> - Extra Processing
