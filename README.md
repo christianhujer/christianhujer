@@ -18,7 +18,7 @@ At Nelkinda, we raise the bar of professional software development by doing it a
   - I'm a polyglot developer. Daily languages: C, Java, Kotlin, XSLT. Language history (alphabetical): Assembler (6502, 680x0, 80x51, amd64 (aka x86-64), ARM, CalmRISC/SecuCalm, H8/300/SX, i386, Tricore, Z80A), bash, BASIC, C, C++, C#, Clojure, Cluster, Golang, Groovy, JavaScript, Lisp/Scheme, Logo, Modula-2, Oberon, Pascal, Perl, PHP, Prolog, Python, Rexx (ARexx), Scala, Swift, Typescript, VisualBASIC, and other languages. Keen on making that list longer, planning to add Eiffel, Elixir, Erlang, Haskell, Rust.
   - I'm a free software and open source enthusiast ever since I typed BASIC listings from computer magazines in the mid 80ies.
 
-### Live Long and Prosper with diversity, equity, and justice! 🖖
+### Live Long and Prosper in diversity, equity, justice, and peace! 🖖
 <!--
 - 😄 Pronouns: ...
 -->
