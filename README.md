@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, I'm 🧙🏻‍♂️Christian Hujer, a passionate software crafter from 🇩🇪Germany living in the beautiful sunny state of 🌴Goa, 🇮🇳India.
+Hi, I'm 🧙🏻‍♂️Christian Hujer, a passionate software crafter and code poet from 🇩🇪Germany living in the beautiful sunny state of 🌴Goa, 🇮🇳India.
 Together with [Siddhesh Nikude](https://github.com/sidnik007), I'm the founder and CEO of [Nelkinda Software Craft](https://github.com/nelkinda).
 At Nelkinda, we raise the bar of professional software development by doing it and showing others how to do it.
 
